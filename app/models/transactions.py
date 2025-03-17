@@ -1,5 +1,3 @@
-# app/models/transactions.py
-
 from app.db.database import database
 from pydantic import BaseModel
 from typing import List, Optional

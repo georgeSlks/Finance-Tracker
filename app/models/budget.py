@@ -1,5 +1,3 @@
-# app/models/budget.py
-
 from app.db.database import database
 from pydantic import BaseModel
 from typing import List, Optional
