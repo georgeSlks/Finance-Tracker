@@ -53,11 +53,11 @@ Delete a category: DELETE /categories/{category_id}
 ![finance_tracker_swagger_ui_2](https://github.com/user-attachments/assets/a4ee6196-16de-4e76-8179-02d46b4b4f67)  
 
 # Finance_db Tables
-* <b> Users table </b>
-![image](https://github.com/user-attachments/assets/e9fe05f8-41e3-4202-a1b4-c5bd0c144574)
-* <b> Transactions Table </b>
-![image](https://github.com/user-attachments/assets/b7dfb597-0fa4-4561-9949-0aeeb04af6e6)
-* <b> Budgets Table </b>
-![image](https://github.com/user-attachments/assets/e88cab75-7f42-44ac-8ca9-0e9e57482a90)
+* <b> Users table </b>  
+  ![image](https://github.com/user-attachments/assets/3ecfc142-e5de-449a-9ecf-1846cd7e74c7)  
+* <b> Transactions Table </b>  
+  ![image](https://github.com/user-attachments/assets/32b0a738-f013-45e0-aaa0-0ab72314ae5c)  
+* <b> Budgets Table </b>    
+  ![image](https://github.com/user-attachments/assets/4bfb0da3-c0f0-4818-a277-c8abe8d41bf5)  
 * <b> Categories Table </b>  
-![image](https://github.com/user-attachments/assets/e748510c-e25f-42fa-bb31-0c46024b7f9e)
+  ![image](https://github.com/user-attachments/assets/b6bf056e-6a73-478b-8b90-fed090e305e5)  
