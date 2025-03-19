@@ -21,6 +21,7 @@ class Transaction(BaseModel):
 
 
 '''
+Use this query to create your transactions table:
 
 CREATE TABLE transactions (
     id SERIAL PRIMARY KEY,

@@ -16,6 +16,7 @@ class User(BaseModel):
 
 
 '''
+Use this query to create your users table:
 
 CREATE TABLE users (
     id SERIAL PRIMARY KEY,

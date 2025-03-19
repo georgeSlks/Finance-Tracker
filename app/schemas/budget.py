@@ -15,6 +15,7 @@ class Budget(BaseModel):
         orm_mode = True
 
 '''
+Use this query to create your budgets table:
 
 CREATE TABLE budgets (
     id SERIAL PRIMARY KEY,

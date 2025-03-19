@@ -12,6 +12,7 @@ class Category(BaseModel):
 
 
 '''
+Use this query to create your categories table:
 
 CREATE TABLE categories (
     id SERIAL PRIMARY KEY,
