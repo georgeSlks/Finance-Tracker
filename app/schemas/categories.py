@@ -9,3 +9,13 @@ class Category(BaseModel):
 
     class Config:
         orm_mode = True
+
+
+'''
+
+CREATE TABLE categories (
+    id SERIAL PRIMARY KEY,
+    name TEXT NOT NULL UNIQUE
+);
+
+'''
